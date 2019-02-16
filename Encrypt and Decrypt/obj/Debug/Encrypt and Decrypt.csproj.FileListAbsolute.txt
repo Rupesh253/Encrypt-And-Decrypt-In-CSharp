@@ -1,0 +1,10 @@
+E:\Automation_Frameworks\Encrypt and Decrypt\Encrypt and Decrypt\bin\Debug\Encrypt and Decrypt.exe.config
+E:\Automation_Frameworks\Encrypt and Decrypt\Encrypt and Decrypt\bin\Debug\Encrypt and Decrypt.exe
+E:\Automation_Frameworks\Encrypt and Decrypt\Encrypt and Decrypt\bin\Debug\Encrypt and Decrypt.pdb
+E:\Automation_Frameworks\Encrypt and Decrypt\Encrypt and Decrypt\obj\Debug\Encrypt and Decrypt.csprojAssemblyReference.cache
+E:\Automation_Frameworks\Encrypt and Decrypt\Encrypt and Decrypt\obj\Debug\Encrypt_and_Decrypt.Form1.resources
+E:\Automation_Frameworks\Encrypt and Decrypt\Encrypt and Decrypt\obj\Debug\Encrypt_and_Decrypt.Properties.Resources.resources
+E:\Automation_Frameworks\Encrypt and Decrypt\Encrypt and Decrypt\obj\Debug\Encrypt and Decrypt.csproj.GenerateResource.cache
+E:\Automation_Frameworks\Encrypt and Decrypt\Encrypt and Decrypt\obj\Debug\Encrypt and Decrypt.csproj.CoreCompileInputs.cache
+E:\Automation_Frameworks\Encrypt and Decrypt\Encrypt and Decrypt\obj\Debug\Encrypt and Decrypt.exe
+E:\Automation_Frameworks\Encrypt and Decrypt\Encrypt and Decrypt\obj\Debug\Encrypt and Decrypt.pdb
